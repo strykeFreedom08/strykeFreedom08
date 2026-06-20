@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jay Ralph Mandanhuyan
 =============================================================================================================================================
 
-Full-stack Web Developer
+Senior Full-stack & AI Developer
 ------------------------
 
-I've been in the tech industry for 11 years both working in web development and computer programming, I'm flexible in learning any programming language as long as I know the fundamentals. I can deal with both front and back-end programming.
+I am a Senior Full-Stack & AI Developer with strong experience building web apps, mobile apps, backend systems, and business automation tools. I help clients turn ideas into reliable products using modern technologies like React, Next.js, Node.js, Python, PHP, C#/.NET, Java, and AI integrations. I also work on API integrations, dashboards, admin panels, database design, and workflow automation. My focus is clean implementation, fast communication, and delivering solutions that are practical, scalable, and ready for real use.
 
 * 🌍  I'm based in Louisville, KY
 * 🖥️  See my portfolio at [MyPortfolio](http://strykefreedom08.netlify.app/)
