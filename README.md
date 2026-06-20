@@ -9,10 +9,6 @@ I am a Senior Full-Stack & AI Developer with strong experience building web apps
 * 🌍  I'm based in Louisville, KY
 * 🖥️  See my portfolio at [MyPortfolio](http://strykefreedom08.netlify.app/)
 * ✉️  You can contact me at [jayralphmandanhuyan@gmail.com](mailto:jayralphmandanhuyan@gmail.com)
-* 🚀  I'm currently working on [Face Recognition Project](http://smart-brain-aj3m.onrender.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
-* ⚡  My hobby is playing online games though...
 
 ### Skills
 
